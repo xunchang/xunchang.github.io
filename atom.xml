@@ -4,7 +4,7 @@
   <title><![CDATA[sight's blog]]></title>
   <link href="http://xunchang.github.io/atom.xml" rel="self"/>
   <link href="http://xunchang.github.io/"/>
-  <updated>2014-01-24T12:27:45+08:00</updated>
+  <updated>2014-01-24T12:32:18+08:00</updated>
   <id>http://xunchang.github.io/</id>
   <author>
     <name><![CDATA[sight]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Second Android]]></title>
+    <link href="http://xunchang.github.io/blog/2014/01/24/second-android/"/>
+    <updated>2014-01-24T12:31:03+08:00</updated>
+    <id>http://xunchang.github.io/blog/2014/01/24/second-android</id>
+    <content type="html"><![CDATA[<h1>第er篇android</h1>
+
+<p>版权符号：
+&amp;copy</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[My Second Octopress Blog]]></title>
