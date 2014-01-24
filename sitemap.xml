@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://xunchang.github.io/blog/2014/01/21/hello-octopress/</loc>
+        <lastmod>2014-01-24T11:35:39+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://xunchang.github.io/blog/2014/01/24/my-second-octopress-blog/</loc>
+        <lastmod>2014-01-24T11:35:39+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://xunchang.github.io/blog/archives/</loc>
+        <lastmod>2014-01-24T11:35:39+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://xunchang.github.io/</loc>
+        <lastmod>2014-01-24T11:35:39+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://xunchang.github.io/robots.txt</loc>
+        <lastmod>2014-01-24T11:35:38+08:00</lastmod>
+    </url>
+</urlset>
