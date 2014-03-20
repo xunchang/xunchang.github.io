@@ -4,7 +4,7 @@
   <title><![CDATA[sight's blog]]></title>
   <link href="http://xunchang.github.io/atom.xml" rel="self"/>
   <link href="http://xunchang.github.io/"/>
-  <updated>2014-01-24T12:32:18+08:00</updated>
+  <updated>2014-03-21T07:15:53+08:00</updated>
   <id>http://xunchang.github.io/</id>
   <author>
     <name><![CDATA[sight]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[First]]></title>
+    <link href="http://xunchang.github.io/blog/2014/03/21/first/"/>
+    <updated>2014-03-21T07:14:34+08:00</updated>
+    <id>http://xunchang.github.io/blog/2014/03/21/first</id>
+    <content type="html"><![CDATA[<p>allllllllllllllllllknsdf
+dajfldajdkkkkkkkkkkkaf
+jalfjfdlajfdlsafj</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[SharedPreference]]></title>
+    <link href="http://xunchang.github.io/blog/2014/03/19/sharedpreference/"/>
+    <updated>2014-03-19T07:11:43+08:00</updated>
+    <id>http://xunchang.github.io/blog/2014/03/19/sharedpreference</id>
+    <content type="html"><![CDATA[<p>关于软件配置信息保存：
+windows软件通常使用ini文件进行保存
+j2se应用使用properties属性文件保存
+android使用sharedpreferences方式保存</p>
+
+<p>SharedPreferences，一个轻量级的存储类，适合对配置信息保存。使用SharedPreferences保存数据，其背后使用的是xml文件存放数据。
+文件存放在/data/data/<package name>/shared_prefs目录下：
+SharedPreferences sp = getSharedPreferences(&ldquo;loginInfo&rdquo;, Context.MODE_PRIVATE);
+Editor editor = sp.edit();//获取编辑器
+editor.putString(&ldquo;name&rdquo;, &ldquo;&rdquo;);
+editor.putInt(&ldquo;age&rdquo;, 4);
+editor.commit();//提交修改
+生成的itcast.xml文件内容如下：
+&lt;?xml version=&lsquo;1.0&rsquo; encoding=&lsquo;utf-8&rsquo; standalone=&lsquo;yes&rsquo; ?></p>
+
+<map>
+<string name="name">传智播客</string>
+<int name="age" value="4" />
+</map>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Second Android]]></title>

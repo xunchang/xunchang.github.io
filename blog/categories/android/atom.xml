@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: 公告 | sight's blog]]></title>
-  <link href="http://xunchang.github.io/blog/categories/gong-gao/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Android | sight's blog]]></title>
+  <link href="http://xunchang.github.io/blog/categories/android/atom.xml" rel="self"/>
   <link href="http://xunchang.github.io/"/>
   <updated>2014-03-21T07:15:53+08:00</updated>
   <id>http://xunchang.github.io/</id>
@@ -37,27 +37,6 @@ editor.commit();//提交修改
 <string name="name">传智播客</string>
 <int name="age" value="4" />
 </map>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[博客开张]]></title>
-    <link href="http://xunchang.github.io/blog/2014/01/21/hello-octopress/"/>
-    <updated>2014-01-21T14:04:46+08:00</updated>
-    <id>http://xunchang.github.io/blog/2014/01/21/hello-octopress</id>
-    <content type="html"><![CDATA[<h2>这我我的博客</h2>
-
-<h4>标题4</h4>
-
-<p>这是一个段落</p>
-
-<ul>
-<li>列表项</li>
-<li><p>列表显示</p></li>
-<li><p>有序列表</p></li>
-<li>有序列表</li>
-</ul>
 
 ]]></content>
   </entry>
